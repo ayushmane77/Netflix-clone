@@ -13,6 +13,6 @@ https://654be2a959d2f93b89370bdd--lustrous-chimera-d82ad0.netlify.app/
 
 // also responsive in every devices
 
-![image](https://github.com/ayushmane77/Netflix-clone/assets/114165081/507d858a-23a7-4c05-863a-18213ee58b37)
+![image](https://github.com/ayushmane77/Netflix-clone/assets/114165081/507d858a-23a7-4c05-863a-18213ee58b37) ![image](https://github.com/ayushmane77/Netflix-clone/assets/114165081/939eb83d-cbb0-4224-8884-6feaf481cdf6)
 
-![image](https://github.com/ayushmane77/Netflix-clone/assets/114165081/939eb83d-cbb0-4224-8884-6feaf481cdf6)
+
